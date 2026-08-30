@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0007-reverse-integer) |
 | [1006-clumsy-factorial](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1006-clumsy-factorial) |
 ## Stack
 |  |
