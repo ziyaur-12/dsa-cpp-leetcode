@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1006-clumsy-factorial](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1006-clumsy-factorial) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
