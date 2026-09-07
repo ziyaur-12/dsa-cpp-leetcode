@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1006-clumsy-factorial) |
 ## Stack
 |  |
@@ -24,4 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
