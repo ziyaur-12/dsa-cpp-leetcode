@@ -2,27 +2,23 @@ class Solution {
 public:
     bool uniqueOccurrences(vector<int>& arr) {
 
-        unordered_map<int, int> freq;
+        unordered_map<int, int> mp;
 
         // Step 1: Count frequency
         for(int num : arr) {
-            freq[num]++;
+            mp[num]++;
         }
 
-        unordered_set<int> seen;
+        unordered_set<int> set;
 
         // Step 2: Check frequency is unique
-        for(auto x : freq) {
+        for(auto x : mp) {
 
             int count = x.second;
+            set . insert(count);
 
-            if(seen.count(count)) {
-                return false;
-            }
-
-            seen.insert(count);
         }
 
-        return true;
+        return set.size() == mp.size();
     }
 };
