@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0027-remove-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
