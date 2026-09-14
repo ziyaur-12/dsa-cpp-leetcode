@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0137-single-number-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0704-binary-search](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0191-number-of-1-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
