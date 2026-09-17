@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0137-single-number-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
@@ -81,4 +82,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
