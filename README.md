@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Ternary Search
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0069-sqrtx) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
