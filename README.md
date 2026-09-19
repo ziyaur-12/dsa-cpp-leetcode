@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -64,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Linked List
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
