@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2248-intersection-of-multiple-arrays](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [2248-intersection-of-multiple-arrays](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -112,5 +115,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
