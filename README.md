@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1006-clumsy-factorial) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0258-add-digits) |
 | [1006-clumsy-factorial](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1006-clumsy-factorial) |
 ## Bit Manipulation
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
