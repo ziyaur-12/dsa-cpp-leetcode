@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
