@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0326-power-of-three) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
