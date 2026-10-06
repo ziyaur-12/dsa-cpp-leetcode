@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1006-clumsy-factorial](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1006-clumsy-factorial) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0258-add-digits) |
 | [1006-clumsy-factorial](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1006-clumsy-factorial) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Queue
 |  |
 | ------- |
