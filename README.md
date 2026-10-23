@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0258-add-digits) |
 | [1006-clumsy-factorial](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1006-clumsy-factorial) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
