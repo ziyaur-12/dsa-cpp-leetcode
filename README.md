@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0258-add-digits) |
 | [1006-clumsy-factorial](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1006-clumsy-factorial) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0137-single-number-ii) |
@@ -178,5 +180,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/0054-spiral-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ziyaur-12/dsa-cpp-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
